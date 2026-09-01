@@ -1,8 +1,3 @@
-# DAILY DEVELOPER CHALLENGE - DAY 1
-# Name: Sathwik Aireddy
-# Day: 1
-#
-
 # 1. CODING PROBLEM - FIRST NON-REPEATING CHARACTER
 
 #
@@ -141,30 +136,3 @@ else:
 
 
 
-# 4. WHAT I LEARNED TODAY:
-
-
-# I learned how to use a dictionary to count character
-# frequency and find the first non-repeating character.
-#
-# I also learned the differences between list, tuple,
-# set, and dictionary.
-#
-# I learned how an incorrectly placed else statement can
-# produce unwanted output.
-#
-# I also learned how to use a flag variable and break
-# to control a loop.
-#
-
-# 5. WHAT I FOUND DIFFICULT:
-
-#
-# I found the debugging challenge slightly difficult because
-# "Student not found" was printed multiple times.
-#
-# I understood that the complete list should be checked
-# before deciding that Kiran is not present.
-#
-# I also found the first non-repeating character problem
-# useful for understanding dictionaries and frequency counting.
