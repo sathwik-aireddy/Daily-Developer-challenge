@@ -68,19 +68,19 @@ if not found:
 
 
 #
-# List:
+# List[]
 # Ordered, allows duplicates, and is mutable.
 # Example: [10, 20, 10]
 #
-# Tuple:
+# Tuple()
 # Ordered, allows duplicates, and is immutable.
 # Example: (10, 20, 10)
 #
-# Set:
+# Set{}
 # Stores unique values and is mutable.
 # Example: {10, 20, 30}
 #
-# Dictionary:
+# Dictionary{}
 # Stores data as key-value pairs and is mutable.
 # Dictionary keys cannot be duplicated.
 # Example: {"name": "Sathwik", "age": 21}
